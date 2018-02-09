@@ -1,0 +1,22 @@
+PS4
+L3x	L3x	3	SLIDER	x	0	1.0	0.0
+L3y	L3y	3	SLIDER	y	0	1.0	0.0
+R3x	R3x	3	SLIDER	z	0	1.0	0.0
+R3y	R3y	3	SLIDER	rz	0	1.0	0.0
+L2a	L2a	3	SLIDER	rx	0	1.0	0.0
+R2a	R2a	3	SLIDER	ry	0	1.0	0.0
+Q	Quadrado	1	BUTTON	0	0	0.0	0.0
+X	Xis	1	BUTTON	1	0	0.0	0.0
+O	Bola	1	BUTTON	2	0	0.0	0.0
+T	Triangulo	1	BUTTON	3	0	0.0	0.0
+L1	L1	1	BUTTON	4	0	0.0	0.0
+R1	R1	1	BUTTON	5	0	0.0	0.0
+L2	L2digital	1	BUTTON	6	0	0.0	0.0
+R2	R2digital	1	BUTTON	7	0	0.0	0.0
+Share	Share	1	BUTTON	8	0	0.0	0.0
+Opt	Option	1	BUTTON	9	0	0.0	0.0
+L3	L3digital	1	BUTTON	10	0	0.0	0.0
+R3	R3digital	1	BUTTON	11	0	0.0	0.0
+PS	ps	1	BUTTON	12	0	0.0	0.0
+pad	pad	1	BUTTON	13	0	0.0	0.0
+dir	direcionais	2	HAT	cooliehat: pov	0	1.0	0.0
